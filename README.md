@@ -1,6 +1,6 @@
 <!-- Add Google Fonts Link -->
 <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
-
+<body>
 # Welcome to My GitHub Profile! 👋
 
 - Hey everyone! I'm Artur, a coding enthusiast and currently a student pursuing Analysis and Systems Development.
@@ -34,3 +34,4 @@ Looking forward to entering the IT professional world and making meaningful cont
 Thanks for stopping by. It means a lot!
 
 Artur
+</body>
