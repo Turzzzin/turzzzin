@@ -4,23 +4,5 @@ body {
     font-family: 'Inter', sans-serif;
     margin: 0;
     padding: 0;
-  }
-  
-  .header-title {
-    text-align: center;
-    font-size: 24px;
-    margin: 20px 0;
-  }
-  
-  .section-title {
-    font-size: 18px;
-    margin-bottom: 10px;
-  }
-  
-  .intro {
-    font-size: 16px;
-    line-height: 1.5;
-  }
-  
-  /* Add more styles for other elements */
+}
   
