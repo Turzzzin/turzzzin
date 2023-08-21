@@ -18,7 +18,7 @@ Hey everyone! I'm Artur, a coding enthusiast and currently a student pursuing An
 
 ## My Toolbox
 
-Here's a sneak peek at the tools, skills, and methodologies I've been working with:
+Here's some tools, skills, and methodologies I've been working with:
 
 - **Languages:** `C` | `C#` | `JavaScript` | `Node.JS` | `Python`
 - **Cloud:** `AWS`
