@@ -1,6 +1,10 @@
 <!-- Add Google Fonts Link -->
 <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
 
+# Welcome to My GitHub Profile! 👋
+
+- Hey everyone! I'm Artur, a coding enthusiast and currently a student pursuing Analysis and Systems Development.
+
 ## 📚 About Me
 
 - 🔭 **Currently:** Diving deep into the Analysis and Systems Development program as a dedicated student at FATEC Taubaté.
