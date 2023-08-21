@@ -1,9 +1,6 @@
 <!-- Add Google Fonts Link -->
 <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
 
-<!-- Apply the 'Inter' font to the whole document -->
-<style>body {font-family: 'Inter', sans-serif;}</style>
-
 # Welcome to My GitHub Profile! 👋
 
 Hey everyone! I'm Artur, a coding enthusiast and currently a student pursuing Analysis and Systems Development.
