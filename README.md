@@ -1,8 +1,6 @@
 <!-- Add Google Fonts Link -->
 <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Intern&duration=2000&pause=500&width=435&lines=Welcome+to+my+GitHub+profile!;My+name+is+Artur;I'm+a+student+of+ADS)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&width=435&lines=Welcome!)](https://git.io/typing-svg)
 ## 📚 About Me
 
 - 🔭 **Currently:** Diving deep into the Analysis and Systems Development program as a dedicated student at FATEC Taubaté.
