@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 🌟
+# Welcome to My GitHub Profile!
 
 Hey everyone! I'm Artur, a coding enthusiast and currently a student pursuing Analysis and Systems Development.
 
