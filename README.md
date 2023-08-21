@@ -1,5 +1,6 @@
 <!-- Add Google Fonts Link -->
 <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&width=435&lines=Welcome!)](https://git.io/typing-svg)
 ## 📚 About Me
 
