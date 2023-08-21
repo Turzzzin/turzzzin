@@ -15,7 +15,7 @@ Hey everyone! I'm Artur, a coding enthusiast and currently a student pursuing An
 
 - You can reach me at my personal email: [arturguimaraes.sk8@gmail.com](mailto:arturguimaraes.sk8@gmail.com). You can also connect with me on [LinkedIn](https://www.linkedin.com/in/artur-guimar%C3%A3es-174300262/).
 
-## 🧑‍💻 Pronouns
+## 🧑 Pronouns
 
 - He/him.
 
