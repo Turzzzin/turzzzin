@@ -2,6 +2,8 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Turzzzin)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <body>
 
   # Welcome to My GitHub Profile! 👋
