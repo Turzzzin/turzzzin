@@ -2,8 +2,6 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Turzzzin)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <body>
 
   # Welcome to My GitHub Profile! 👋
@@ -39,4 +37,7 @@
   Thanks for stopping by. It means a lot!
   
   Artur
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Turzzzin&bg_color=0d1117&color=1dd320&line=ffffff&point=1dd320&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 </body>
