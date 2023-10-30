@@ -34,6 +34,7 @@
   - **Cloud Development**: `Serverless`
   - **Machine Learning**: `Amazon SageMaker`
   - **Computacional Vision**: `Amazon Rekognition`
+  - **Database**: `DynamoDB`
   
   Looking forward to entering the IT professional world and making meaningful contributions!
   
