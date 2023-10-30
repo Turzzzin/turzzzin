@@ -31,6 +31,9 @@
   - **Version Control:** `Git & GitHub`
   - **Virtualization:** `Docker`
   - **Project Management:** `Agile` with a touch of `Scrum`
+  - **Cloud Development**: `Serverless`
+  - **Machine Learning**: `Amazon SageMaker`
+  - **Computacional Vision**: `Amazon Rekognition`
   
   Looking forward to entering the IT professional world and making meaningful contributions!
   
