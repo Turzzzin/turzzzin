@@ -41,7 +41,6 @@
   Thanks for stopping by. It means a lot!
   
   Artur
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Turzzzin&bg_color=0d1117&color=1dd320&line=ffffff&point=1dd320&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
+## Certification badges
+* <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5130eb1f-b81b-43da-85a1-8933f9d67e1a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </body>
