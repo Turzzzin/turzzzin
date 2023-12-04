@@ -41,5 +41,10 @@
   Thanks for stopping by. It means a lot!
   
   Artur
-## Certification badges
+  ## Certification badges
+  <div align="left">
+    <a href="https://www.credly.com/badges/5130eb1f-b81b-43da-85a1-8933f9d67e1a/public_url">
+        <img src="./public/aws-certified-cloud-practitioner.png" width="100px"/>
+    </a>
+  </div>
 </body>
