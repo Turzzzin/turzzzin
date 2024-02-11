@@ -11,8 +11,9 @@
   ## 📚 About Me
   
   - 🔭 **Currently:** Diving deep into the Analysis and Systems Development program as a dedicated student at FATEC Taubaté.
-  - 💼 **Interning at:** Compass (UOL) under an exciting scholarship program. Currently exploring the realms of cognitive computing, machine learning, and AWS.
+  - 💼 **Interning at:** Johnson&Johnson. Working with Data & Analytics technologys.
   - 📘 **Educational Path:** My journey started when I discovered my passion for programming during my time at UNIFEI, where I pursued Control and Automation Engineering for three semesters.
+  - **Experience:** Intern at Compass.UOL wich I had the opportunity to learn about Machine Learning using AWS services.
   
   ## 🌐 Let's Connect
   
@@ -26,7 +27,7 @@
   
   Here's some tools, skills, and methodologies I've been working with:
   
-  - **Languages:** `C` | `C#` | `JavaScript` | `Node.JS` | `Python`
+  - **Languages:** `C` | `C#` | `JavaScript` | `Node.JS` | `Python` | `SQL`
   - **Cloud:** `AWS`
   - **Version Control:** `Git & GitHub`
   - **Virtualization:** `Docker`
