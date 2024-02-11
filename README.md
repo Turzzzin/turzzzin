@@ -13,7 +13,7 @@
   - 🔭 **Currently:** Diving deep into the Analysis and Systems Development program as a dedicated student at FATEC Taubaté.
   - 💼 **Interning at:** Johnson&Johnson. Working with Data & Analytics technologys.
   - 📘 **Educational Path:** My journey started when I discovered my passion for programming during my time at UNIFEI, where I pursued Control and Automation Engineering for three semesters.
-  - **Experience:** Intern at Compass.UOL wich I had the opportunity to learn about Machine Learning using AWS services.
+  - 🆙 **Experience:** Intern at Compass.UOL wich I had the opportunity to learn about Machine Learning using AWS services.
   
   ## 🌐 Let's Connect
   
