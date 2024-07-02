@@ -21,6 +21,7 @@
 <div style="display: inline_block">
     <img align="center" alt="Terraform" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
     <img align="center" alt="Jenkins" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
+    <img align="center" alt="Kubernetes" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg">
 </div>
 
 ### Coding tools:
