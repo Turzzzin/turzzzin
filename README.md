@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=30&center=true&vCenter=true&duration=2500&width=1000&lines=Hi!+:%29;My+name+is+Artur;Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=30&center=true&vCenter=true&duration=2500&width=1000&lines=Hi!+:%29;!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=30&center=true&vCenter=true&duration=2500&width=1000&lines=My+name+is+Artur;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=30&center=true&vCenter=true&duration=2500&width=1000&lines=Welcome!)](https://git.io/typing-svg)
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Turzzzin&show_icons=true&theme=dark)
 ***
 # About me
 ## Personal
