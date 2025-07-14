@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=30&center=true&vCenter=true&duration=2500&width=1000&lines=Hi!+:%29;)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=30&center=true&vCenter=true&duration=2500&width=1000&lines=My+name+is+Artur;)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=30&center=true&vCenter=true&duration=2500&width=1000&lines=Welcome!)](https://git.io/typing-svg)
- 
-***
 # About me
 ## Personal
 Passionate about technology, animals, music, food, and of course, coffee. A gamer at heart (with a special love for VALORANT), former small-time streamer—though nostalgia still hits me every now and then, haha. Always eager to learn something new and have fun along the way. I love using technology to solve challenges and make life easier. At the end of the day, I’m just another explorer in this vast digital ocean.
