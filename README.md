@@ -27,7 +27,7 @@ Throughout these experiences, I had the opportunity to work on different aspects
 | Python | <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> |  | ✅ |
 | AWS | <img align="center" alt="AWS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"> |  | ✅ |
 | SQL | <img align="center" alt="SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg"> |  | ✅ |
-| Spark | <img align="center" alt="Spark" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg"> | ✅ |  |
+| Spark | <img align="center" alt="Spark" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg"> |  | ✅ |
 | Kubernetes | <img align="center" alt="Kubernetes" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg"> | ✅ |  | 
 | Delta Lake | <img align="center" alt="Delta Lake" height="50" width="60" src="https://spark.apache.org/images/delta-lake-logo.png"> |  | ✅ |
 
