@@ -1,64 +1,80 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=30&center=true&vCenter=true&duration=2500&width=1000&lines=Hi!+:%29;)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=30&center=true&vCenter=true&duration=2500&width=1000&lines=My+name+is+Artur;)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=30&center=true&vCenter=true&duration=2500&width=1000&lines=Welcome!)](https://git.io/typing-svg)
-# About me
-## Personal
-Passionate about technology, animals, music, food, and of course, coffee. A gamer at heart (with a special love for VALORANT), former small-time streamer—though nostalgia still hits me every now and then, haha. Always eager to learn something new and have fun along the way. I love using technology to solve challenges and make life easier. At the end of the day, I’m just another explorer in this vast digital ocean.
+# 👋 Hi there!
 
-## Professional
-My professional journey began at **Compass UOL**, where I worked as an intern in a scholarship program focused on **AWS, Machine Learning, and Cognitive Computing**. Over the six-month program, I had the opportunity to explore the **AWS ecosystem** and develop various applications, including:  
-- Applications for consuming APIs;  
-- Training a **predictive model** using **SageMaker**;  
-- Developing a **Chatbot** to automate the enrollment process for FATECs (an academic project that was not deployed to production).  
+Welcome to my GitHub profile!  
+I'm **Artur Guimarães**, a Data Platform Engineer passionate about solving real-world problems through technology.
 
-After completing the scholarship program, I joined the **technology internship program at Johnson & Johnson (JnJ)**, in the **Data & Analytics** area. There, I was part of the **platform team**, responsible for the **commercial Datalake** and a **data products platform**. During this time, I learned and applied **CI/CD concepts** using **Jenkins, Terraform, and Bitbucket**, while also contributing to several strategic initiatives, such as:  
-- Developing a **data integration connector** between the Datalake and **Salesforce**, using **Python**;  
-- Building **data pipelines** with **Step Functions and AWS Glue**;  
-- Implementing **Spark on Lambda**, reducing costs by replacing Glue for certain workloads ([I explained more about this in this post](https://www.linkedin.com/feed/update/urn:li:activity:7247672876407918593/));  
-- Contributing to the development of **Spark on Kubernetes**, using **Karpenter** as an autoscaler. 
-- Developing an API to expose Datalake data, enabling easy access and integration with other systems.
+---
 
-Throughout these experiences, I had the opportunity to work on different aspects of the **data engineering ecosystem**, which allowed me to deepen both my **technical knowledge** and **strategic vision** of the field. Being involved in the development of a **data platform** was an incredibly enriching challenge and solidified my passion for this area! 🚀  
+## ⚙️ Tech Stack
 
-# Skills
-## Data
-| Skil | Logo | Basic | Intermediate | Advanced |
-|:----:|:----:|:-----:|:------------:|:--------:|
-| Python | <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> |  | ✅ |
-| AWS | <img align="center" alt="AWS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"> |  | ✅ |
-| SQL | <img align="center" alt="SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg"> |  | ✅ |
-| Spark | <img align="center" alt="Spark" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg"> |  | ✅ |
-| Kubernetes | <img align="center" alt="Kubernetes" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg"> | ✅ |  | 
-| Delta Lake | <img align="center" alt="Delta Lake" height="50" width="60" src="https://spark.apache.org/images/delta-lake-logo.png"> |  | ✅ |
+**Languages & Tools:**  
+Python • SQL • AWS • Apache Spark • Delta Lake • Kubernetes • Terraform • Jenkins • Git • Docker • FastAPI • Pandas  
 
+---
 
+## 🧠 About Me
 
-## Libraries
-| Skil | Logo | Basic | Intermediate | Advanced |
-|:----:|:----:|:-----:|:------------:|:--------:|
-| FastAPI | <img align="center" alt="FastAPI" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg"> | ✅ |  | 
-| Pandas | <img align="center" alt="Pandas" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"> |  | ✅ |
+### 🔹 Personal Side  
+I’m a curious technologist who also loves animals, music, food, and coffee. In my downtime, you’ll find me gaming (especially VALORANT), exploring new tools, or reminiscing about my time as a small-time Twitch streamer. I love building things that make life easier and learning along the way.
 
-## CI/CD Skills
-| Skil | Logo | Basic | Intermediate | Advanced |
-|:----:|:----:|:-----:|:------------:|:--------:|
-| Git | <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> |  | ✅ | 
-| Terraform | <img align="center" alt="Terraform" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"> |  | ✅ |
-| Jenkins | <img align="center" alt="Jenkins" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"> | ✅ |  | 
-| Docker | <img align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"> | ✅ |  | 
+### 🔹 Professional Journey  
+My career began with a scholarship at **Compass UOL**, where I explored **AWS**, **Machine Learning**, and **Cognitive Computing**. I built applications for API consumption, trained models with **SageMaker**, and developed a chatbot for educational use.
 
+Later, I joined **Johnson & Johnson** as a Data & Analytics intern, working on their **data platform team**. There, I gained hands-on experience with:
 
-# Willing to learn
-<div style="display: inline_block">
- <img alt="Rust" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg">
-</div>
+- ✅ Data pipelines using **AWS Glue**, **Step Functions**, and **Spark**
+- ✅ CI/CD using **Jenkins**, **Terraform**, and **Bitbucket**
+- ✅ Building integrations with systems like **Salesforce**
+- ✅ Reducing costs by implementing **Spark on Lambda** ([LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7247672876407918593/))
+- ✅ Supporting **Spark on Kubernetes** with **Karpenter**
 
+These roles deepened my expertise across the **data engineering stack**, from architecture to automation, and reinforced my passion for building scalable data solutions.
 
-## My Certifications
-  <a href="https://www.credly.com/badges/5130eb1f-b81b-43da-85a1-8933f9d67e1a/public_url"><img height="80" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"></a>
+---
 
-## Let's connect!
-<div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/arturguimaraes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:arturguimaraes.sk8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+## 🚀 Skills Overview
+
+### 🧩 Data & Platforms
+| Skill        | Logo | Level |
+|--------------|------|--------|
+| Python | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | Advanced |
+| AWS | ![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) | Advanced |
+| SQL | ![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg) | Advanced |
+| Apache Spark | ![Spark](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg) | Advanced |
+| Kubernetes | ![Kubernetes](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg) | Basic |
+| Delta Lake | ![Delta Lake](https://spark.apache.org/images/delta-lake-logo.png) | Intermediate |
+
+### 📚 Libraries & Frameworks
+| Skill        | Logo | Level |
+|--------------|------|--------|
+| FastAPI | ![FastAPI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg) | Basic |
+| Pandas | ![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg) | Intermediate |
+
+### 🧪 DevOps / CI/CD
+| Skill        | Logo | Level |
+|--------------|------|--------|
+| Git | ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) | Intermediate |
+| Terraform | ![Terraform](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg) | Intermediate |
+| Jenkins | ![Jenkins](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg) | Basic |
+| Docker | ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) | Basic |
+
+---
+
+## 🔭 Currently Exploring
+
+- ![Rust](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg) **Rust** — learning it for potential use in high-performance backend and data tasks.
+
+---
+
+## 📜 Certifications
+
+[![AWS Cloud Practitioner](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/5130eb1f-b81b-43da-85a1-8933f9d67e1a/public_url)
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturguimaraes)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturguimaraes.sk8@gmail.com)
+
+---
