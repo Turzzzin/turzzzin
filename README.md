@@ -3,14 +3,10 @@
 Welcome to my GitHub profile!  
 I'm **Artur Guimarães**, a Data Platform Engineer passionate about solving real-world problems through technology.
 
----
-
 ## ⚙️ Tech Stack
 
 **Languages & Tools:**  
 Python • SQL • AWS • Apache Spark • Delta Lake • Kubernetes • Terraform • Jenkins • Git • Docker • FastAPI • Pandas  
-
----
 
 ## 🧠 About Me
 
@@ -30,47 +26,34 @@ Later, I joined **Johnson & Johnson** as a Data & Analytics intern, working on t
 
 These roles deepened my expertise across the **data engineering stack**, from architecture to automation, and reinforced my passion for building scalable data solutions.
 
----
-
 ## 🚀 Skills Overview
 
 ### 🧩 Data & Platforms
 | Skill        | Logo | Level |
 |--------------|------|--------|
-| Python | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | Advanced |
-| AWS | ![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) | Advanced |
-| SQL | ![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg) | Advanced |
-| Apache Spark | ![Spark](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg) | Advanced |
-| Kubernetes | ![Kubernetes](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg) | Basic |
-| Delta Lake | ![Delta Lake](https://spark.apache.org/images/delta-lake-logo.png) | Intermediate |
-
-### 📚 Libraries & Frameworks
-| Skill        | Logo | Level |
-|--------------|------|--------|
-| FastAPI | ![FastAPI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg) | Basic |
-| Pandas | ![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg) | Intermediate |
+| Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"> | Advanced |
+| AWS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"> | Advanced |
+| SQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"> | Advanced |
+| Apache Spark | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" height="40"> | Advanced |
+| Kubernetes | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="40" height="40"> | Basic |
+| Delta Lake | <img src="https://spark.apache.org/images/delta-lake-logo.png" width="40" height="40"> | Intermediate |
 
 ### 🧪 DevOps / CI/CD
 | Skill        | Logo | Level |
 |--------------|------|--------|
-| Git | ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) | Intermediate |
-| Terraform | ![Terraform](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg) | Intermediate |
-| Jenkins | ![Jenkins](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg) | Basic |
-| Docker | ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) | Basic |
-
----
+| Git | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"> | Intermediate |
+| Terraform | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"> | Intermediate |
+| Jenkins | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"> | Basic |
+| Docker | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"> | Basic |
 
 ## 🔭 Currently Exploring
 
-- ![Rust](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg) **Rust** — learning it for potential use in high-performance backend and data tasks.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" height="40"> **Rust** — learning it for potential use in high-performance backend and data tasks.
 
----
 
 ## 📜 Certifications
 
 [![AWS Cloud Practitioner](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/5130eb1f-b81b-43da-85a1-8933f9d67e1a/public_url)
-
----
 
 ## 🤝 Let's Connect
 
