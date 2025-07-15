@@ -31,10 +31,10 @@ These roles deepened my expertise across the **data engineering stack**, from ar
 ### 🧩 Data & Platforms
 | Skill        | Logo | Level |
 |--------------|------|--------|
-| Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"> | Advanced |
-| AWS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"> | Advanced |
-| SQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"> | Advanced |
-| Apache Spark | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" height="40"> | Advanced |
+| Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"> | Intermediate |
+| AWS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"> | Intermediate |
+| SQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"> | Intermediate |
+| Apache Spark | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" height="40"> | Intermediate |
 | Kubernetes | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="40" height="40"> | Basic |
 | Delta Lake | <img src="https://spark.apache.org/images/delta-lake-logo.png" width="40" height="40"> | Intermediate |
 
