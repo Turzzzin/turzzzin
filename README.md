@@ -47,17 +47,14 @@ These roles deepened my expertise across the **data engineering stack**, from ar
 | Docker | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"> | Basic |
 
 ## 🔭 Currently Exploring
-
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" height="40"> **Rust** — learning it for potential use in high-performance backend and data tasks.
-
+**Rust**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" height="40"> 
 
 ## 📜 Certifications
-
-[![AWS Cloud Practitioner](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/5130eb1f-b81b-43da-85a1-8933f9d67e1a/public_url)
+**AWS Cloud Practitioner**
+<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="40" height="40">
 
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturguimaraes)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturguimaraes.sk8@gmail.com)
-
----
