@@ -47,11 +47,9 @@ These roles deepened my expertise across the **data engineering stack**, from ar
 | Docker | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"> | Basic |
 
 ## 🔭 Currently Exploring
-**Rust**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" height="40"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" height="40"> 
 
 ## 📜 Certifications
-**AWS Cloud Practitioner**
 <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="40" height="40">
 
 ## 🤝 Let's Connect
