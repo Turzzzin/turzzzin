@@ -4,9 +4,18 @@ Welcome to my GitHub profile!
 I'm **Artur Guimarães**, a Data Platform Engineer passionate about solving real-world problems through technology.
 
 ## ⚙️ Tech Stack
-
-**Languages & Tools:**  
-Python • SQL • AWS • Apache Spark • Delta Lake • Kubernetes • Terraform • Jenkins • Git • Docker • FastAPI • Pandas  
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="40" height="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Spark" width="40" height="40">
+    <img src="https://spark.apache.org/images/delta-lake-logo.png" alt="Delta Lake" width="40" height="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40">
+</p>
 
 ## 🧠 About Me
 
@@ -26,33 +35,9 @@ Later, I joined **Johnson & Johnson** as a Data & Analytics intern, working on t
 
 These roles deepened my expertise across the **data engineering stack**, from architecture to automation, and reinforced my passion for building scalable data solutions.
 
-## 🚀 Skills Overview
-
-### 🧩 Data & Platforms
-| Skill        | Logo | Level |
-|--------------|------|--------|
-| Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"> | Intermediate |
-| AWS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"> | Intermediate |
-| SQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"> | Intermediate |
-| Apache Spark | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" height="40"> | Intermediate |
-| Kubernetes | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="40" height="40"> | Basic |
-| Delta Lake | <img src="https://spark.apache.org/images/delta-lake-logo.png" width="40" height="40"> | Intermediate |
-
-### 🧪 DevOps / CI/CD
-| Skill        | Logo | Level |
-|--------------|------|--------|
-| Git | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"> | Intermediate |
-| Terraform | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"> | Intermediate |
-| Jenkins | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"> | Basic |
-| Docker | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"> | Basic |
-
-## 🔭 Currently Exploring
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" height="40"> 
-
 ## 📜 Certifications
-<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="40" height="40">
+<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="65" height="65">
 
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturguimaraes)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturguimaraes.sk8@gmail.com)
