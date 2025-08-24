@@ -1,5 +1,6 @@
 I'm **Artur Guimarães**, a Data Platform Engineer at [Johnson&Johnson](https://www.linkedin.com/company/johnson-&-johnson/posts/?feedView=all) passionate about solving real-world problems through technology.
 
+## Tech Stack
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=py,aws,bitbucket,docker,fastapi,git,jenkins,kubernetes,linux,mysql,postman,terraform&perline=14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Spark" width="40" height="40">
